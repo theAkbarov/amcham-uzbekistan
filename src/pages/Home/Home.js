@@ -1,3 +1,4 @@
+import '../../assets/scss/pages/_home.scss'
 const Home = () => {
   return <div>Home</div>;
 };
